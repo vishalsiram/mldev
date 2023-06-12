@@ -5,7 +5,7 @@ Created on Tue Apr  4 02:09:52 2023
 @author: Vishal
 """
 
-# Import required libraries
+# Import required libraries using random forest
 from sklearn.multioutput import MultiOutputClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
